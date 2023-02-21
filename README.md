@@ -1,1 +1,3 @@
-# Abrenica-IT128L
+James Jireh Abrenica
+IT128L - FOPI01
+BSIT
